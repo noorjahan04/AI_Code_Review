@@ -2,7 +2,7 @@ import React from 'react';
 import { ThemeProvider } from './context/ThemeContext';
 import CompilerDashboard from './components/CompilerDashboard';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // ✅ Import Routes and Route
-import './App.css';
+import './index.css';
 import LandingPage from './components/LandingPage';
 
 function App() {
