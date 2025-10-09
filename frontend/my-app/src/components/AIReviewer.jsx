@@ -13,7 +13,7 @@ const AIReview = ({ code, language }) => {
     setIsAnalyzing(true);
 
     try {
-      const response = await axios.post('http://localhost:5000/ai/check', {
+      const response = await axios.post('https://ai-code-review-ttod.onrender.com/ai/check', {
         code,
         language,
       });
