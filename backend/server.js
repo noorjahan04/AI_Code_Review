@@ -8,7 +8,7 @@ const app = express();
 app.use(cors({
     
   origin: 
-  "https://ai-code-review-ebon.vercel.app/",
+  "https://ai-code-review-ebon.vercel.app",
 }));
 app.use(express.json());
 
