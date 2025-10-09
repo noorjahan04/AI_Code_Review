@@ -8,7 +8,7 @@ const app = express();
 app.use(cors({
     
   origin: 
-  "http://localhost:5173",
+  "https://ai-code-review-ebon.vercel.app/",
 }));
 app.use(express.json());
 
