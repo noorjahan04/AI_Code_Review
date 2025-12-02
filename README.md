@@ -1,8 +1,8 @@
-🤖 CodeAuditAI – AI Code Reviewer & Executor
+### 🤖 CodeAuditAI – AI Code Reviewer & Executor
 
 A powerful AI-driven code reviewer and real-time execution platform that analyzes code intelligently, provides instant feedback, and allows users to run programs across multiple programming languages. It offers a smooth developer experience with smart review insights, execution output, error handling, and a clean modern interface.
 
-✨ Features
+## ✨ Features
 🔍 AI-Powered Code Review
 
    - Intelligent analysis of submitted code
@@ -13,7 +13,7 @@ A powerful AI-driven code reviewer and real-time execution platform that analyze
 
    - Beginner-friendly, readable feedback
 
-⚡ Real-Time Code Execution
+## ⚡ Real-Time Code Execution
 
    - Supports multiple programming languages
 
@@ -23,7 +23,7 @@ A powerful AI-driven code reviewer and real-time execution platform that analyze
 
    - Perfect for learning, debugging, and prototyping
 
-🎨 Modern User Experience
+## 🎨 Modern User Experience
 
    1. Integrated code editor for smooth editing
 
@@ -31,7 +31,7 @@ A powerful AI-driven code reviewer and real-time execution platform that analyze
 
    3. Responsive layout for all devices
 
-📊 Developer-Focused Tools
+## 📊 Developer-Focused Tools
 
    - Real-time execution with detailed results
 
@@ -39,7 +39,7 @@ A powerful AI-driven code reviewer and real-time execution platform that analyze
 
    - Clear separation of review output & execution output
 
-🧠 How It Works (Workflow)
+## 🧠 How It Works (Workflow)
 
    1. User enters code into the editor
 
@@ -51,11 +51,11 @@ A powerful AI-driven code reviewer and real-time execution platform that analyze
 
    5. Improves code using feedback + execution results
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 🔗 Live Site: https://ai-code-review-ebon.vercel.app/
 
-🎯 Use Cases
+## 🎯 Use Cases
 
    i.Students learning programming
 
