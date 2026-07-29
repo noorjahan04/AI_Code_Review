@@ -1,13 +1,11 @@
 export const LANGUAGE_VERSIONS = {
-  javascript: "18.15.0",
+  javascript: "18.15.0",   // node runtime
   typescript: "5.0.3",
-  nodejs: "18.16.0",
+  nodejs: "18.15.0",       // same as javascript node runtime
   python: "3.10.0",
   java: "15.0.2",
-  cpp: "10.2.0", 
-  c: "10.2.0",   
-  html: "5.0",
-  css: "3.0",
+  cpp: "10.2.0",
+  c: "10.2.0",
 };
 
 export const CODE_SNIPPETS = {
